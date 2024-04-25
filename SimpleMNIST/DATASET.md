@@ -1,1 +1,2 @@
-https://www.kaggle.com/datasets/khotijahs1/digitrecognizer/download?datasetVersionNumber=1
+Download the dataset here: 
+https://www.kaggle.com/datasets/khotijahs1/digitrecognizer
