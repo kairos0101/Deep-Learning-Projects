@@ -1,3 +1,4 @@
-Download here the PASCAL-VOC Dataset for YOLOv1 and YOLOv3:
+Download here the PASCAL-VOC Dataset here:
 
+kaggle datasets download -d aladdinpersson/pascalvoc-yolo
 https://www.kaggle.com/datasets/734b7bcb7ef13a045cbdd007a3c19874c2586ed0b02b4afc86126e89d00af8d2
