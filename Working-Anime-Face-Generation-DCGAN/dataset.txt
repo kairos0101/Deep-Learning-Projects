@@ -1,0 +1,4 @@
+Download the dataset here:
+
+https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+kaggle datasets download -d soumikrakshit/anime-faces
