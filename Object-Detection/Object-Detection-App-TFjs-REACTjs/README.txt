@@ -56,5 +56,7 @@ import { drawRect } from "./utilities";
 //5. TODO - Update drawing utility
 drawRect(obj, ctx);
 
+Watch: https://www.youtube.com/watch?v=uTdUUpfA83s&list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr&index=5
+Watch: https://youtu.be/uTdUUpfA83s?si=aL8BcEQDJdW8__Su
 
 
